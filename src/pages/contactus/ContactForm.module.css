@@ -1,0 +1,116 @@
+/* ContactForm.module.css */
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: 1fr;
+
+}
+@media (max-width: 767px) {
+  .grid{
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
+@media (min-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.inputWrapper {
+  position: relative;
+  width: 100%;
+}
+
+.label {
+  display: block;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #4a5568;
+  margin-bottom: 0.5rem;
+}
+
+.input {
+  width: 100%;
+  padding: 0.75rem 0.75rem 0.75rem 2.5rem;
+  border: 1px solid #c39c75;
+  border-radius: 0.375rem;
+  background-color: rgba(255, 255, 255, 0.8);
+  transition: all 0.2s;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #c39c75;
+  box-shadow: 0 0 0 3px rgba(195, 156, 117, 0.2);
+}
+
+.icon {
+  position: absolute;
+  left: 0.75rem;
+  top: 2.1rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  color: #c39c75;
+}
+
+.textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #c39c75;
+  border-radius: 0.375rem;
+  background-color: rgba(255, 255, 255, 0.8);
+  resize: vertical;
+  min-height: 8rem;
+  transition: all 0.2s;
+  margin-left: 0PX;
+}
+
+.textarea:focus {
+  outline: none;
+  border-color: #c39c75;
+  box-shadow: 0 0 0 3px rgba(195, 156, 117, 0.2);
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 0.375rem;
+  background-color: #c39c75;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.button:hover {
+  background-color: #b38d66;
+}
+
+.button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(195, 156, 117, 0.2);
+}
+
+.buttonIcon {
+  margin-left: 0.5rem;
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+
+
+/* Focus styles for the phone input */
+.phoneInput:focus {
+  outline: none;
+  border-color: #b38d66;
+}

@@ -1,0 +1,1 @@
+export const BASE_URL = "https://aurabloom.ikramovna.me/api"

@@ -1,0 +1,37 @@
+.chippers::-webkit-scrollbar {
+	display: none;
+}
+.activeButton{
+	background-color: black;
+	color: white;
+}
+.ant-modal-title {
+	text-align: center;
+	font-weight: bold;
+  }
+.activedButton{
+	
+	border:none;
+	color:#B5B5B5;
+	background: none;
+	padding: 12px 20px;
+	background:  #F7F7F7;
+	cursor: pointer;
+	margin-left: 0px;
+	margin-right: 10px;
+	margin-bottom:10px;
+	border-radius:100px;
+	
+}
+.activeddButton{
+	
+	padding: 12px 20px;
+	background:black;
+	color:white;
+	margin-left: 0px;
+	margin-right:10px;
+	margin-bottom:10px;
+	border-radius:100px;
+	border: none;
+}
+

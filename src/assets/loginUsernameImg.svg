@@ -1,0 +1,46 @@
+<svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="27" height="27" fill="#F5F5F5"/>
+<g id="Log in" clip-path="url(#clip0_1_3)">
+<rect width="1920" height="1080" transform="translate(-1091 -495)" fill="white"/>
+<g id="Background">
+<rect id="Rectangle 33" x="-1091" y="-495" width="1920" height="1080" fill="#F5EFE1"/>
+</g>
+<g id="Log in_2">
+<g id="Rectangle 34" filter="url(#filter0_d_1_3)">
+<rect x="-826" y="-337" width="1390" height="764" rx="30" fill="#F5EFE1"/>
+</g>
+<g id="Log in_3" clip-path="url(#clip1_1_3)">
+<rect id="Bacground for Log In" x="-76" y="-337" width="640" height="764" rx="30" fill="white"/>
+<g id="Username">
+<rect x="-15.5" y="-19.5" width="519" height="66" rx="11.5" stroke="#B5B5B5"/>
+<g id="Frame">
+<g id="Vector">
+<path d="M4.5 24.75C4.5 19.7794 8.52943 15.75 13.5 15.75C18.4706 15.75 22.5 19.7794 22.5 24.75H20.25C20.25 21.0221 17.2279 18 13.5 18C9.77208 18 6.75 21.0221 6.75 24.75H4.5ZM13.5 14.625C9.77062 14.625 6.75 11.6044 6.75 7.875C6.75 4.14562 9.77062 1.125 13.5 1.125C17.2294 1.125 20.25 4.14562 20.25 7.875C20.25 11.6044 17.2294 14.625 13.5 14.625ZM13.5 12.375C15.9862 12.375 18 10.3612 18 7.875C18 5.38875 15.9862 3.375 13.5 3.375C11.0137 3.375 9 5.38875 9 7.875C9 10.3612 11.0137 12.375 13.5 12.375Z" fill="#B5B5B5"/>
+<path d="M4.5 24.75C4.5 19.7794 8.52943 15.75 13.5 15.75C18.4706 15.75 22.5 19.7794 22.5 24.75H20.25C20.25 21.0221 17.2279 18 13.5 18C9.77208 18 6.75 21.0221 6.75 24.75H4.5ZM13.5 14.625C9.77062 14.625 6.75 11.6044 6.75 7.875C6.75 4.14562 9.77062 1.125 13.5 1.125C17.2294 1.125 20.25 4.14562 20.25 7.875C20.25 11.6044 17.2294 14.625 13.5 14.625ZM13.5 12.375C15.9862 12.375 18 10.3612 18 7.875C18 5.38875 15.9862 3.375 13.5 3.375C11.0137 3.375 9 5.38875 9 7.875C9 10.3612 11.0137 12.375 13.5 12.375Z" fill="black" fill-opacity="0.2"/>
+<path d="M4.5 24.75C4.5 19.7794 8.52943 15.75 13.5 15.75C18.4706 15.75 22.5 19.7794 22.5 24.75H20.25C20.25 21.0221 17.2279 18 13.5 18C9.77208 18 6.75 21.0221 6.75 24.75H4.5ZM13.5 14.625C9.77062 14.625 6.75 11.6044 6.75 7.875C6.75 4.14562 9.77062 1.125 13.5 1.125C17.2294 1.125 20.25 4.14562 20.25 7.875C20.25 11.6044 17.2294 14.625 13.5 14.625ZM13.5 12.375C15.9862 12.375 18 10.3612 18 7.875C18 5.38875 15.9862 3.375 13.5 3.375C11.0137 3.375 9 5.38875 9 7.875C9 10.3612 11.0137 12.375 13.5 12.375Z" fill="black" fill-opacity="0.2"/>
+<path d="M4.5 24.75C4.5 19.7794 8.52943 15.75 13.5 15.75C18.4706 15.75 22.5 19.7794 22.5 24.75H20.25C20.25 21.0221 17.2279 18 13.5 18C9.77208 18 6.75 21.0221 6.75 24.75H4.5ZM13.5 14.625C9.77062 14.625 6.75 11.6044 6.75 7.875C6.75 4.14562 9.77062 1.125 13.5 1.125C17.2294 1.125 20.25 4.14562 20.25 7.875C20.25 11.6044 17.2294 14.625 13.5 14.625ZM13.5 12.375C15.9862 12.375 18 10.3612 18 7.875C18 5.38875 15.9862 3.375 13.5 3.375C11.0137 3.375 9 5.38875 9 7.875C9 10.3612 11.0137 12.375 13.5 12.375Z" fill="black" fill-opacity="0.2"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1_3" x="-926" y="-437" width="1590" height="964" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="50"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_3"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_3" result="shape"/>
+</filter>
+<clipPath id="clip0_1_3">
+<rect width="1920" height="1080" fill="white" transform="translate(-1091 -495)"/>
+</clipPath>
+<clipPath id="clip1_1_3">
+<rect width="640" height="764" fill="white" transform="translate(-76 -337)"/>
+</clipPath>
+</defs>
+</svg>

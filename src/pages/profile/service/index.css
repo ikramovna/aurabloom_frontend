@@ -1,0 +1,17 @@
+.select-image:hover{
+   background-color: rgb(195, 156, 117);
+   color: white;
+   transition: 0.3s linear;
+}
+.text-service{
+font-family: Inter,sans-serif;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#mui-component-select-category{
+ padding-block: 10px !important;
+}
+#mui-component-select-duration{
+   padding-block: 10px !important;
+}

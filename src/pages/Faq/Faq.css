@@ -1,0 +1,90 @@
+
+.buttonstyles{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+  background-color: transparent ;
+  border: none;
+  cursor: pointer;
+  /* border-bottom: 1px solid black; */
+}
+.buttonstyles:hover{
+  color: #c39c75 !important;
+  transition: color linear 0.2s;
+}
+.faq-chevron {
+  transition: transform 0.6s linear;
+  margin-right: 0px;
+}
+
+.faq-chevron.open {
+  transform: rotate(180deg);
+  transition: transform 0.3s linear;
+ /* Rotates the icon 180 degrees */
+}
+.faq-question {
+  font-size: 1.125rem; /* Equivalent to text-lg in Tailwind */
+  font-weight: 500;  
+  padding-block: 1.5rem  /* Equivalent to font-medium in Tailwind */
+}
+.faq-answer {
+  color: #4b5563; /* Equivalent to text-gray-600 in Tailwind */
+  line-height: 1.625; /* Equivalent to leading-relaxed in Tailwind */
+  margin-bottom: 1.5rem; /* Equivalent to mb-6 in Tailwind */
+}
+
+.contact-button {
+  background-color: #c39c75; /* bg-pink-500 */
+  color: #ffffff; /* text-white */
+  padding: 1rem 2rem; /* px-8 py-3 */
+  border-radius: 9999px; /* rounded-full */
+  font-weight: 500; /* font-medium */
+  transition: background-color 0.3s ease; /* transition-colors */
+  border: none; 
+}
+
+.contact-button:hover {
+  background-color: #c39c75; /* hover:bg-pink-600 */
+}
+
+/* General input styles */
+.input-field {
+  display: block;
+  width: 100%;
+  margin-top: 0.25rem;
+  padding: 0.5rem 10px;
+  font-size: 0.875rem; /* sm:text-sm */
+  border-radius: 0.375rem; /* rounded-md */
+  border: 1px solid #d1d5db; /* border-gray-300 */
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05); /* shadow-sm */
+  transition: border-color 0.2s, box-shadow 0.2s; /* smooth focus effect */
+  outline: none;
+}
+
+/* Focused state for input */
+.input-field:focus {
+  border-color: #3b82f6; /* focus:border-blue-500 */
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2); /* focus:ring-blue-500 */
+}
+
+
+
+/* display: flex;
+width: 100%;
+ali: center;
+justifyContent: 'space-between',
+textAlign: 'left' */
+.custom-modal-button {
+  background-color: #c39c75;
+  border-color: #c39c75;
+  color: white;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+.custom-modal-button:hover {
+  background-color: #a98260 !important;
+  border-color: #a98260 !important;
+  color: white !important;
+}

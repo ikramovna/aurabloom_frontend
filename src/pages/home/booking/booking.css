@@ -1,0 +1,14 @@
+.bookingbutton:hover{
+ background-color: #c39c75 !important;
+ color: white !important;
+}
+.booking-icon {
+    transition: opacity 0.4s ease-in-out;
+  }
+  .icon-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  

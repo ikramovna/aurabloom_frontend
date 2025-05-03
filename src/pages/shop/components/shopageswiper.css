@@ -1,0 +1,24 @@
+/* Scoped styles for the specific Swiper */
+.shop-page-swiper .custom-swiper {
+    width: 100%;
+    height: 87vh;
+    background-color: #f5f5f5;
+  }
+  
+  /* Slides */
+  .shop-page-swiper .custom-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Images */
+  .shop-page-swiper .custom-slide img {
+    max-width: 100%;
+    height: 100% !important;  
+    object-fit: cover;
+    width: 100%;
+  }
+  

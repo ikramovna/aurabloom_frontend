@@ -1,0 +1,51 @@
+@font-face {
+    font-family: myfont;
+    src: url(../assets/fonts/Anta-Regular.ttf);
+}
+.logo-text{
+    font-family: myfont !important;
+}
+a {
+    font-size: 18px;
+    color: #c39c75;
+    text-decoration: none;
+    position: relative;
+    display: block;
+    overflow: hidden;
+  }
+  
+  .title-navbar {
+    color: #696969;
+    display: block;
+    transition: transform 0.5s ease, color 0.5s ease;
+    position: relative;
+  }
+  
+  a:before {
+    position: absolute;
+    content: attr(data-link-alt);
+    top: 0;
+    left: 0;
+    color: #c39c75; /* Hover color for the pseudo-element */
+    transform: translateY(100%);
+    transition: transform 0.5s ease, opacity 0.5s ease;
+    opacity: 0; /* Initially hidden */
+  }
+  
+  a:hover .title-navbar {
+    transform: translateY(-100%);
+  }
+  
+  a:hover:before {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  
+  .active-navbar {
+    color: #c39c75; /* Highlight color */
+    /* font-weight: bold; */
+    /* border-bottom: 2px solid #c39c75; */
+  }
+  .active-navbar span {
+    color: #c39c75 !important;
+  }

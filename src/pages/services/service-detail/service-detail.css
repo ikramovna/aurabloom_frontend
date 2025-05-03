@@ -1,0 +1,26 @@
+    .copy-button {
+      border: none;
+      background: none;
+      padding: 0;
+    }
+    
+    .copy-icon {
+      width: 40px;
+      height: 40px;
+      transition: transform 0.2s ease-in-out;
+    }
+
+    .copy-button:hover .copy-icon {
+      transform: translateY(-5px); /* 5px tepaga ko‘tariladi */
+    }
+    @media (max-width: 600px) {
+      .responsive-image {
+        height: 300px;  /* Mobile: 300px */
+      }
+    }
+    
+    @media (min-width: 601px) {
+      .responsive-image {
+        height: 500px;  /* Desktop: 500px */
+      }
+    }

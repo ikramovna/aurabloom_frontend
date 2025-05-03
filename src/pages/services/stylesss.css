@@ -1,0 +1,16 @@
+.ant-card-body{
+    padding: 0px !important;
+}
+ .ant-col{
+    margin-left: 0px;
+    margin-right: 0px;
+ }
+ .ant-notification-notice-description{
+    margin-inline-start: 0px !important;
+ }
+ .ant-notification-notice-description img {
+    margin-inline-start: 0px !important;
+ }
+ .ant-notification-notice-description div {
+    margin-left: 0px !important;
+ }
